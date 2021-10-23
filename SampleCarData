@@ -1,0 +1,11 @@
+## target data 
+VERI-WILD 
+
+## model
+BYOL
+
+upstream task code 
+ train.py
+
+downstream task code 
+ compare.py
