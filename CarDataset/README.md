@@ -1,9 +1,9 @@
-## target data 
-VERI-WILD 
+## Data 
+ VERI-WILD 
 https://reposhub.com/python/deep-learning/PKU-IMRE-VERI-Wild.html
 
-## LEARNING METHOD
-BYOL
+## Learning Method
+ BYOL
 
 upstream task code 
  train.py
